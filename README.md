@@ -19,12 +19,6 @@ It allows users to:
 
 ---
 
-## 📸 Screenshots
-
-### 1. Homepage - Add and View Tasks
-![Homepage Screenshot](task1.png)
-
----
 
 ## 🚀 How It Works
 
