@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Task Tracker</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div class="container">
+    <form id="task-form">
+      <label for="new-task" class="middle">Add Task</label>
+      <input id="new-task" type="text" placeholder="Enter a new task" required>
+      <button type="submit">Add Task</button>
+    </form>
+
+    <section>
+      <h3 class="middle">Todo</h3>
+      <ul id="incomplete-tasks"></ul>
+    </section>
+
+    <section>
+      <h3 class="middle">Completed Tasks</h3>
+      <ul id="completed-tasks"></ul>
+    </section>
+  </div>
+
+  <script src="list.js"></script>
+</body>
+</html>
