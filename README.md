@@ -44,6 +44,5 @@ It allows users to:
    - Click "Delete" to permanently remove the task from the list.
 
 ---
-![Image](https://github.com/user-attachments/assets/34b93e3a-3987-47e7-9a47-b42d613d1b5c)
-![Image](https://github.com/user-attachments/assets/dc0c354c-8082-41c9-a85f-a22f9f546586)
 ![Image](https://github.com/user-attachments/assets/f9b0ffbc-9b43-48e9-8dbb-fb7f066f7b1e)
+![Image](https://github.com/user-attachments/assets/dc0c354c-8082-41c9-a85f-a22f9f546586)
